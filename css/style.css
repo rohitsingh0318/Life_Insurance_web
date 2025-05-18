@@ -1,0 +1,93 @@
+.asked_question_service .row .col-lg-6 h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; /* Optional */
+    font-size: 56px;
+}
+.service_wrappers .container .col-lg-12 h1 {
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; /* Optional */
+    font-size: 56px;
+}
+.third_wrapper .container .row .col-lg-6 h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 56px; 
+}
+.second_wrapper .container-fluid .container h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 56px;
+}
+.blog_box_wrapper .container .col-lg-12 h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 56px;
+}
+.our_team_wrapper .container .col-lg-12 h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 56px;
+}
+.testimonial .container .col-lg-12 h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 56px;
+}
+/*   FOOTER WEBSITE CSS START  */
+.footer {
+    background-color: #0a2239;
+    color: white;
+    padding: 40px 0;
+}
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer .newsletter input {
+    border-radius: 25px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    width: 80%;
+}
+.social-icons a {
+    margin: 0 10px;
+    color: #0a2239;
+    background-color: #fff;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 100%;
+    font-size: 20px;
+    
+}
+/* scrolling hedder part */
+.text_slider h1{
+    font-family: 'YourSansSerifFont', sans-serif;
+    font-weight: bold; 
+    font-size: 57px; 
+}
+
+.footerbottom{
+    padding-top: 20px;
+    text-align: center;
+}
+.footerbottom p{
+    color: white;
+}
+
+
+/* .three_boxes{
+    animation: slideinleft 1s ease-in;
+}
+@keyframes slideinleft {
+    from{
+      transform: translateX(-300px);
+    }
+    to{
+      transform: translateX(0);
+    }
+  } */
+
